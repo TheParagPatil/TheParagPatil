@@ -1,65 +1,97 @@
-<h1 align="center">Hey, I’m Parag Patil 👋</h1>
-
-<img src="./images/Hand coding-rafiki.png" width="30%" align="right" alt="developer vector" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Tech+Explorer+🚀)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheParagPatil&style=flat-square&color=blue)
+<div align="center">
+  <h1>Hey, I'm Parag Patil 👋</h1>
+  
+  <img src="./images/Hand coding-rafiki.png" width="30%" alt="developer vector" />
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Tech+Explorer+🚀" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TheParagPatil&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer | AI and Data Science Enthusiast  
-- 📚 Currently learning advanced Machine Learning and its real-world applications  
-- 🤝 Looking to collaborate on DS, ML, and backend projects  
-- 📫 Reach me at: official.paragp91199@gmail.com  
+- 💻 **Full Stack Developer** | AI and Data Science Enthusiast  
+- 📚 Currently learning advanced **Machine Learning** and its real-world applications  
+- 🤝 Looking to collaborate on **DS, ML, and backend projects**  
+- 📫 Reach me at: **official.paragp91199@gmail.com**  
 - 🌐 Portfolio: [parag-patil.netlify.app](https://parag-patil.netlify.app)
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-parag-patil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheParagPatil003)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheParagPatil)
+<p align="center">
+  <a href="https://www.linkedin.com/in/the-parag-patil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/TheParagPatil003">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/TheParagPatil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:official.paragp91199@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
-**Languages & Frameworks:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+#### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+#### Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**AI/ML Tools:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=flat&logo=matplotlib&logoColor=white)
+#### AI/ML Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎓 [Campus Live – University Management System](https://github.com/TheParagPatil/CampusLive)
-- 🧠 [AI Chatbot System (Multilingual)](https://github.com/TheParagPatil/AI-Chatbot-System)
-- ⚖️ [Court Case Management System](https://github.com/TheParagPatil/Minor-Project-Court-Case-Management-System-)
-- 📱 [Android App for Industry](https://github.com/TheParagPatil/AndroidAppForIndustry)
-- 🎬 [Movie Website – Amazflix](https://github.com/TheParagPatil/MovieWebsiteAmazflix)
-- 🌐 [My Portfolio Website](https://github.com/TheParagPatil/PortfolioWebsite)
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎓 [Campus Live](https://github.com/TheParagPatil/CampusLive) | University Management System | Java, Spring Boot, MySQL |
+| 🧠 [AI Chatbot System](https://github.com/TheParagPatil/AI-Chatbot-System) | Multilingual AI Chatbot | Python, TensorFlow, NLP |
+| ⚖️ [Court Case Management](https://github.com/TheParagPatil/Minor-Project-Court-Case-Management-System-) | Case Management System | PHP, MySQL, JavaScript |
+| 📱 [Android App for Industry](https://github.com/TheParagPatil/AndroidAppForIndustry) | Industry Management App | Java, Android, Firebase |
+| 🎬 [Amazflix](https://github.com/TheParagPatil/MovieWebsiteAmazflix) | Movie Website | Vue.js, HTML, CSS |
+| 🌐 [Portfolio Website](https://github.com/TheParagPatil/PortfolioWebsite) | Personal Portfolio | HTML, CSS, JavaScript |
+
+</div>
 
 ---
 
@@ -67,12 +99,72 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheParagPatil&theme=transparent)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheParagPatil&layout=compact&theme=transparent)](https://github.com/TheParagPatil/github-readme-stats)  
-[![Parag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheParagPatil&show_icons=true&theme=transparent)](https://github.com/TheParagPatil)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheParagPatil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Parag's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheParagPatil&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  
+</div>
 
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=TheParagPatil&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=TheParagPatil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
 </div>
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect or collaborate with me on any interesting projects.*
+### 📈 GitHub Activity Graph
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheParagPatil&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheParagPatil&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⚡️ GitHub Profile Summary
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheParagPatil&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheParagPatil&theme=tokyonight" alt="Most Commit Language" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <h3>Thanks for visiting my profile! Feel free to connect or collaborate with me on any interesting projects. 🚀</h3>
+  
+  <p>
+    <img src="https://img.shields.io/github/followers/TheParagPatil?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/TheParagPatil?label=Stars&style=social" alt="GitHub Stars" />
+  </p>
+  
+</div>
