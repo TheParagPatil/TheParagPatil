@@ -99,21 +99,29 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheParagPatil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Parag's GitHub Stats" />
+  <!-- GitHub Stats Card - Using simpler URL -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TheParagPatil&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Parag's GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheParagPatil&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=TheParagPatil&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Top Languages Card -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheParagPatil&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
   
 </div>
 
+<br/>
+
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=TheParagPatil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=TheParagPatil&theme=radical&hide_border=false" alt="GitHub Streak" />
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=TheParagPatil&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
   
 </div>
 
@@ -123,7 +131,7 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheParagPatil&theme=tokyo-night&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheParagPatil&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&title_color=58A6FF" alt="GitHub Activity Graph" />
   
 </div>
 
@@ -131,9 +139,11 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheParagPatil&theme=tokyonight" alt="Profile Details" />
-</p>
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheParagPatil&theme=github_dark&cache_seconds=86400" alt="Profile Details" />
+  
+</div>
 
 ---
 
@@ -141,18 +151,19 @@
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache_seconds=3600" alt="Random Dev Quote" />
   
 </div>
 
 ---
 
+### ⚡️ GitHub Profile Summary
+
 <div align="center">
   
-  ### ⚡️ GitHub Profile Summary
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheParagPatil&theme=github_dark&cache_seconds=86400" alt="Repos per Language" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheParagPatil&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheParagPatil&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheParagPatil&theme=github_dark&cache_seconds=86400" alt="Most Commit Language" />
   
 </div>
 
